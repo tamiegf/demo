@@ -7,4 +7,4 @@ def mult(x,y):
 def div(x,y):
     pass
 def square(x):
-    pass
+    return x*x
